@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, sans-serif;
+ }
+ #carousel{
+    width: 100%;
+    height: 70%;
+    overflow-x: auto;
+ }
+  .footer{
+      width: 100%;
+      height: 100%;
+      overflow-x: hidden;
+  }
+  .text_1{
+      color: white;
+  }
+  .text_2{
+      color: white;
+  }
+  .text_3{
+      color: white;
+  }
+  .col{
+      margin-top: 5rem;
+  }
+  .h-100 img{
+      width: 100%;
+      /* height: 100%; */
+  }
+  .carousel-item img{
+      height: 45rem;
+  }
+
+  .register{
+      /* margin-top: 5rem; */
+      margin-top: 3px;
+      width: 40%;
+      /* justify-content: center; */
+      position: relative;
+      overflow-x: hidden;
+      
+  }
+
+  .cn_3{
+       width: 100%;
+       margin-top: 2rem;
+       padding-left: 33rem;
+       /* padding: 40rem; */
+       
+  }
+
+  .cn_3 span{
+        color: blue;
+        font-size: 25px;
+        font-weight: bold;
+  }
+
+ 
+ 
